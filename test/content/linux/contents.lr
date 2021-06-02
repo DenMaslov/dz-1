@@ -1,0 +1,33 @@
+_model: Linux
+---
+title: Commands for Linux
+
+---
+command1: mkdir
+
+---
+
+command1_explanation: The mkdir command in Linux/Unix allows users to create or make new directories. mkdir stands for “make directory.” With mkdir , you can also set permissions, create multiple directories (folders) at once, and much more.
+
+---
+
+command2: cd
+
+---
+
+command2_explanation: The cd (“change directory”) command is used to change the current working directory in Linux and other Unix-like operating systems. It is one of the most basic and frequently used commands when working on the Linux terminal.
+
+---
+
+command3: pwd
+
+---
+
+command3_explanation: The pwd command stands for print working directory. It is one of the most basic and frequently used commands in Linux. When invoked the command prints the complete path of the current working directory.
+---
+
+command4: ls
+
+---
+
+command4_explanation: The ls command is used to list files or directories in Linux and other Unix-based operating systems. Just like you navigate in your File explorer or Finder with a GUI, the ls command allows you to list all files or directories in the current directory by default, and further interact with them via the command line.

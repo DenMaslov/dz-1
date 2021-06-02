@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+
+<h2>{{ this.title }}</h2>
+<hr />
+<table class="table">
+  <tbody>
+    <tr class="table-info">
+      <th scope="col">{{ this.command1 }}</th>
+      <th scope="col">{{ this.command1_explanation }}</th>
+    </tr>
+  
+    <tr class="table-primary">
+      <th scope="col">{{ this.command2 }}</th>
+      <th scope="col">{{ this.command2_explanation }}</th>
+    </tr>
+    <tr class="table-info">
+      <th scope="col">{{ this.command3 }}</th>
+      <th scope="col">{{ this.command3_explanation }}</th>
+    </tr>
+    <tr class="table-primary">
+      <th scope="col">{{ this.command4 }}</th>
+      <th scope="col">{{ this.command4_explanation }}</th>
+    </tr>
+    <tr class="table-info">
+      <th scope="col">{{ this.command5 }}</th>
+      <th scope="col">{{ this.command5_explanation }}</th>
+    </tr>
+    <tr class="table-primary">
+      <th scope="col">{{ this.command6 }}</th>
+      <th scope="col">{{ this.command6_explanation }}</th>
+    </tr>
+    <tr class="table-info">
+      <th scope="col">{{ this.command7 }}</th>
+      <th scope="col">{{ this.command7_explanation }}</th>
+    </tr>
+  </tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,55 @@
+_model: Linux
+---
+title: Hot Keys For VScode
+
+---
+command1: Ctrl+Shift+P, F1
+
+---
+
+command1_explanation: Show Command Palette
+
+---
+
+command2: Ctrl+P
+
+---
+
+command2_explanation: Quick Open, Go to File…
+
+---
+
+command3: Ctrl+Shift+N
+
+---
+
+command3_explanation: New window/instance
+---
+
+command4: Ctrl+Shift+W
+
+---
+
+command4_explanation: Close window/instance
+
+---
+
+command5: Ctrl+,
+
+---
+
+command5_explanation: User Settings
+---
+
+command6: Ctrl+K Ctrl+S
+
+---
+
+command6_explanation: Keyboard Shortcuts
+---
+
+command7: Ctrl+K Ctrl+J
+
+---
+
+command7_explanation: Unfold (uncollapse) all regions

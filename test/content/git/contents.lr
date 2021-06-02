@@ -1,0 +1,41 @@
+_model: GIT
+---
+title: Commands for GIT
+
+---
+command1: Git clone
+
+---
+
+command1_explanation: Git clone is a command for downloading existing source code from a remote repository (like Github, for example). In other words, Git clone basically makes an identical copy of the latest version of a project in a repository and saves it to your computer.
+
+---
+
+command2: Git branch
+
+---
+
+command2_explanation: Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously. We can use the git branch command for creating, listing and deleting branches.
+
+---
+
+command3: Git checkout
+
+---
+
+command3_explanation: This is also one of the most used Git commands. To work in a branch, first you need to switch to it. We use git checkout mostly for switching from one branch to another. We can also use it for checking out files and commits.
+---
+
+command4: Git status
+
+---
+
+command4_explanation: The Git status command gives us all the necessary information about the current branch. 
+
+---
+
+command5: Git add
+
+---
+
+command5_explanation: When we create, modify or delete a file, these changes will happen in our local and won't be included in the next commit (unless we change the configurations).

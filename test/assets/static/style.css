@@ -1,0 +1,57 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    margin: 50px 25px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 1em 0;
+    font-size: 1.4rem;
+    line-height: 1.5em;
+    font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+    color: #0C3C26; 
+}
+.btn
+{
+    margin-right: 1vw;
+}
+
+hr {
+    
+    border: 2px solid;
+}
+
+.header__container
+{
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    background: #daeef3;
+    padding: 20px 30px;
+}
+header, footer, div.page {
+    width: 760px;
+    margin: 0 auto;
+    background: #daeef3;
+    padding: 20px 30px;
+}
+
+header h1 {
+    margin-right: auto;
+}
+
+
+div.page {
+    background: #ffffff;
+}
+
+h3 
+{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #0C3C26;
+}
